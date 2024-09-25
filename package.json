@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "bootstrap-icons": "^1.11.3",
+    "moment": "^2.30.1"
+  },
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "makes todo list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "goog"
+  ],
+  "author": "Robert",
+  "license": "ISC"
+}

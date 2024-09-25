@@ -1,0 +1,48 @@
+body{
+    display: flex;
+    align-items: center;
+    flex-flow: column;
+    background-color: rgba(56, 55, 55, 0.767);
+}
+#heading{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 900;
+    margin-top: 10px;
+    color: rgb(228, 228, 228);
+}
+
+#main{
+    margin-top: 5rem;
+    width: 80rem;
+    height: 100vh;
+    background-color: rgba(121, 121, 121, 0.815);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.txt{
+    color: white;
+    font-size: large;
+}
+
+#create{
+    font-weight: bolder;
+    height: 2rem;
+    width: 5rem;
+}
+#tasks{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+.username{
+    width: 40rem;
+}
+
+.new-element{
+    width: 40rem;
+}
